@@ -1,0 +1,2 @@
+# Highly-Available-Web-Setup
+In this project I will be setting up a small network in AWS to host a single web server. The network should be highly available and should allow HTTP traffic from the internet. To achieve this, you will create a VPC with two public subnets in different Availability Zones. You will also set up an Internet Gateway to enable communication with the internet and a security group to allow HTTP traffic.
